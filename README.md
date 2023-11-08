@@ -3,7 +3,7 @@
 
 <p><strong>&bull; 💻 I'm studying Python, Django, SQL ... 💾</strong></p>
 <p><strong>&bull; 🌀 Full-Stack Developer</strong></p>
-<p><strong>&bull; 🤝 Open to project partnerships</strong></p>
+<p><strong>&bull; 🤝 Open to project abc partnerships</strong></p>
 
 
 
