@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p><strong>&bull; 💻 I'm studying Python, Django, SQL ... 💾</strong></p>
+<p><strong>&bull; 💻 I'm studying ... 💾</strong></p>
 <p><strong>&bull; 🌀 Full-Stack Developer</strong></p>
 <p><strong>&bull; 🤝 Open to project abc boa noite partnerships</strong></p>
 
