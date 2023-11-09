@@ -22,13 +22,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,ps&theme=dark" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=github,git&theme=dark" alt="My Skills"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,pytorch,java,bootstrap,wordpress&theme=dark" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=vscode,ps&theme=dark" alt="My Skills"/>
   </a>
 </p>
 
