@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="center" alt="Igor-hello" src="https://github.com/igorcodigo/Header_Svg_Coloured/blob/main/header.svg">
+
 
 <p><strong>&bull; 💻 I'm studying Python, Django, SQL ... 💾</strong></p>
 <p><strong>&bull; 🌀 Full-Stack Developer</strong></p>
@@ -9,11 +9,11 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=igorcodigo&label=profile+visits&color=1E90FF)
+![](https://komarev.com/ghpvc/?username=barbarabalves&label=profile+visits&color=1E90FF)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=igorcodigo" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&username=igorcodigo" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=barbarabalves" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&username=barbarabalves" height="200" alt="languages graph"  />
 </div>
 
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,selenium,postgres,js,html,css,git,docker&theme=dark" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=github,git,ps&theme=dark" alt="My Skills"/>
   </a>
 </p>
 
@@ -37,7 +37,7 @@
   <summary style="color: blue; font-weight: bold;"> Animação snake game </summary><br>
 <!-- Snake game contributions -->
   
-![](https://raw.githubusercontent.com/igorcodigo/Snake_Contr/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/barbarabalves/Snake_Contr/output/github-contribution-grid-snake.svg)
 
 
 Pode ser necessário reccaregar a página para a animação acima funcionar corretamente
@@ -46,8 +46,8 @@ Pode ser necessário reccaregar a página para a animação acima funcionar corr
 ##
 
 <p align="center">
-  <a href="https://github.com/igorcodigo/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorcodigo&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/barbarabalves/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=barbarabalves&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -55,17 +55,17 @@ Pode ser necessário reccaregar a página para a animação acima funcionar corr
 
 <!--
 <p align="left">
-  <a href="https://github.com/igorcodigo/github-readme-stats">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=igorcodigo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <a href="https://github.com/barbarabalves/github-readme-stats">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=barbarabalves&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/igorcodigo/convoychat">
-    <img width="27.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorcodigo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <a href="https://github.com/barbarabalves/convoychat">
+    <img width="27.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=barbarabalves&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   </a>
 </p> -->
 
 
 <!--
-**igorcodigo/igorcodigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**barbarabalves/barbarabalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -79,12 +79,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-<a href="https://github.com/igorcodigo/github-readme-stats">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=igorcodigo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+<a href="https://github.com/barbarabalves/github-readme-stats">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=barbarabalves&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
 </a>
-<a href="https://github.com/igorcodigo/convoychat">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorcodigo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+<a href="https://github.com/barbarabalves/convoychat">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barbarabalves&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 </a>
 
-<img height=89 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorcodigo&theme=tokyonight&hide_border=true" />
+<img height=89 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barbarabalves&theme=tokyonight&hide_border=true" />
 -->
